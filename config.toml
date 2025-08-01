@@ -1,4 +1,4 @@
-baseURL = 'https://match.github.io/'
+baseURL = 'https://bing0cv.github.io/asae22/'
 languageCode = 'en-us'
 title = 'ICASSP 2026: Automatic Song Aesthetics Evaluation Challenge'
 theme = ["hugo-chart", "arcana"]
